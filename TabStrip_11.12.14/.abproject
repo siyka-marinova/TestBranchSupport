@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.TabStrip111214",
   "DisplayName": "TabStrip_11.12.14",
   "Author": "",
-  "Description": "",
+  "Description": "TabStrip_11.12.14",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -27,8 +27,8 @@
   "WP8Publisher": "",
   "WP8Capabilities": [],
   "WP8Requirements": [],
-  "WP8PublisherID": "",
-  "WP8ProductID": "",
+  "WP8PublisherID": "{656cb1ce-c7b6-4070-95b9-3086a3212b1c}",
+  "WP8ProductID": "{95dd8257-011d-4198-8dae-887355d9a954}",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",

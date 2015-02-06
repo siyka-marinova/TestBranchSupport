@@ -1,0 +1,37 @@
+{
+  "ProjectName": "DrawerOnAWS",
+  "ProjectGuid": "bbc4be53-5b34-4199-98fc-17f4a87facd6",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.DrawerOnAWS",
+  "DisplayName": "DrawerOnAWS",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2ff970b4-e5e3-436a-9e85-ddaa356b6ab1}",
+  "WP8ProductID": "{d5ea7e63-c359-4f0c-9f8a-81f755d62b73}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
